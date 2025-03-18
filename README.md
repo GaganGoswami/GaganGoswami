@@ -3,10 +3,35 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gagangoswami/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gagangoswami)
 
+> 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Lead Software Engineer | 🏆 AWS Architect
+## 🚀 About Me
 
-I'm a passionate Lead Software Engineer | Sr. Solution Architect | LLM Engineer with expertise in LLM engineering, cloud computing, machine learning, web development. I love solving complex problems and building scalable, efficient, and user-friendly solutions.
+Pioneering the intersection of artificial intelligence and cloud computing with 30+ years of industry expertise. I'm dedicated to democratizing complex technology through engaging education and practical implementation.
 
-Skilled in prompt engineering, fine-tuning AI models, retrieval-augmented generation (RAG), and embeddings. A proactive problem solver with expertise in designing high-performance applications, cloud-native architectures, and enterprise solutions. Proven ability to lead teams, optimize software performance, and implement scalable solutions. Holds multiple AWS and Azure certifications.
+- 🎯 **Focus Areas:** Generative AI, Cloud Architecture, Java, Spring
+- 🌱 **Current Impact:** Empowering organizations with AI-driven cloud solutions
+- 💡 **Expertise:** GitHub Copilot, Cloud Native Technologies, Enterprise Architecture
+- 🏆 **Recognition:** AWS Solution Architect, AWS Developer Associate, Git Hub CoPilot Certified, Github Foundations Certified, Azure Architect
+
+
+ ```text
+Generative AI       ⭐⭐⭐⭐⭐  Expert in prompt engineering & AI integration
+Cloud Architecture  ⭐⭐⭐⭐⭐  Azure solutions architect & evangelist
+Java/Spring   ⭐⭐⭐⭐⭐        Full-stack development
+Python/JavaScript   ⭐⭐⭐⭐   Full-stack development
+Infrastructure     ⭐⭐⭐⭐   Cloud-native & hybrid solutions
+```
+## 🎯 2025 Impact Areas
+
+- 🤖 **AI Leadership**
+  - Pioneering enterprise AI adoption strategies
+  - Developing AI governance frameworks
+  - AI training programs
+
+- ☁️ **Cloud Innovation**
+  - Architecting next-gen cloud solutions
+  - Leading cloud transformation initiatives
+  - Establishing best practices & patterns
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -45,6 +70,11 @@ Here are some of the projects I've worked on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganGoswami&layout=compact&theme=radical)
 
----
+<details>
+<summary>📈 Detailed GitHub Metrics</summary>
+<br>
 
-⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
+![Metrics](https://metrics.lecoq.io/gagangoswami?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.repositories=false&config.timezone=America%2FNew_York)
+
+</details>
+---
