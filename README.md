@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there, I'm Gagan Goswami! 👋
+
+I'm a passionate Lead Software Engineer | Sr. Solution Architect | LLM Engineer with expertise in LLM engineering, cloud computing, machine learning, web development. I love solving complex problems and building scalable, efficient, and user-friendly solutions.
+
+Skilled in prompt engineering, fine-tuning AI models, retrieval-augmented generation (RAG), and embeddings. A proactive problem solver with expertise in designing high-performance applications, cloud-native architectures, and enterprise solutions. Proven ability to lead teams, optimize software performance, and implement scalable solutions. Holds multiple AWS and Azure certifications.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,12 +12,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-# Hi there, I'm Gagan Goswami! 👋
-
-I'm a passionate [your role, e.g., Software Engineer, Data Scientist, DevOps Engineer, etc.] with expertise in [your key skills, e.g., cloud computing, machine learning, web development, etc.]. I love solving complex problems and building scalable, efficient, and user-friendly solutions.
-
+- 
 ## 🔧 Technologies & Tools
 - **Programming Languages**: [e.g., Python, Java, JavaScript, etc.]
 - **Frameworks & Libraries**: [e.g., React, Flask, TensorFlow, etc.]
