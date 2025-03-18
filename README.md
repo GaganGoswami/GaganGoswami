@@ -70,11 +70,11 @@ Here are some of the projects I've worked on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GaganGoswami&layout=compact&theme=radical)
 
-<details>
-<summary>📈 Detailed GitHub Metrics</summary>
-<br>
-
-![Metrics](https://metrics.lecoq.io/gagangoswami?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.repositories=false&config.timezone=America%2FNew_York)
-
-</details>
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gagangoswami&label=Profile+Views&style=for-the-badge" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Let's shape the future of technology together! 🚀</i>
+</p>
