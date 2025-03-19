@@ -6,9 +6,9 @@
 > 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Lead Software Engineer | 🏆 3x AWS Certified | 🏆 Github Foundation and Colpiot Certified
 ## 🚀 About Me
 
-Pioneering the intersection of artificial intelligence and cloud computing with 30+ years of industry expertise. I'm dedicated to democratizing complex technology through engaging education and practical implementation.
+Pioneering the intersection of artificial intelligence and cloud computing with 21+ years of industry expertise. 
 
-- 🎯 **Focus Areas:** Generative AI, Cloud Architecture, Java, Spring
+- 🎯 **Focus Areas:** Generative AI, Cloud Architecture, Java, Spring, React, Angular
 - 🌱 **Current Impact:** Empowering organizations with AI-driven cloud solutions
 - 💡 **Expertise:** GitHub Copilot, Cloud Native Technologies, Enterprise Architecture
 - 🏆 **Recognition:** AWS Solution Architect, AWS Developer Associate, Git Hub CoPilot Certified, Github Foundations Certified, Azure Architect
@@ -17,9 +17,9 @@ Pioneering the intersection of artificial intelligence and cloud computing with 
  ```text
 Generative AI       ⭐⭐⭐⭐⭐  Expert in prompt engineering & AI integration
 Cloud Architecture  ⭐⭐⭐⭐⭐  Azure solutions architect & evangelist
-Java/Spring   ⭐⭐⭐⭐⭐        Full-stack development
-Python/JavaScript   ⭐⭐⭐⭐   Full-stack development
-Infrastructure     ⭐⭐⭐⭐   Cloud-native & hybrid solutions
+Java/Spring         ⭐⭐⭐⭐⭐  Full-stack development
+Python/JavaScript   ⭐⭐⭐⭐    Full-stack development
+Infrastructure      ⭐⭐⭐⭐    Cloud-native & hybrid solutions
 ```
 ## 🎯 2025 Impact Areas
 
@@ -33,15 +33,7 @@ Infrastructure     ⭐⭐⭐⭐   Cloud-native & hybrid solutions
   - Leading cloud transformation initiatives
   - Establishing best practices & patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+
 ## 🔧 Technologies & Tools
 - **Programming Languages**: [e.g., Python, Java, JavaScript, etc.]
 - **Frameworks & Libraries**: [e.g., React, Flask, TensorFlow, etc.]
