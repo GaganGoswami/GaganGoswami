@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gagangoswami/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gagangoswami)
 
-> 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Lead Software Engineer | 🏆 AWS Architect
+> 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Lead Software Engineer | 🏆 3x AWS Certified | 🏆 Github Foundation and Colpiot Certified
 ## 🚀 About Me
 
 Pioneering the intersection of artificial intelligence and cloud computing with 30+ years of industry expertise. I'm dedicated to democratizing complex technology through engaging education and practical implementation.
