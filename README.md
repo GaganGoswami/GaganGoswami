@@ -54,7 +54,7 @@ Here are some of the projects I've worked on:
 ## 📫 How to reach me
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Gagan Goswami](https://www.linkedin.com/in/gagangoswami/)
-- **Twitter**: [@yourhandle](https://twitter.com/gagangoswami) (if applicable)
+- **Twitter**: [@gagangoswami](https://twitter.com/gagangoswami) 
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com) (if applicable)
 
 ## 📊 GitHub Stats
