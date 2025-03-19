@@ -35,15 +35,15 @@ Infrastructure      ⭐⭐⭐⭐    Cloud-native & hybrid solutions
 
 
 ## 🔧 Technologies & Tools
-- **Programming Languages**: [e.g., Python, Java, JavaScript, etc.]
-- **Frameworks & Libraries**: [e.g., React, Flask, TensorFlow, etc.]
-- **DevOps & Cloud**: [e.g., AWS, Docker, Kubernetes, etc.]
-- **Databases**: [e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- **Tools**: [e.g., Git, VS Code, Jira, etc.]
+- **Programming Languages**: Python, Java, JavaScript
+- **Frameworks & Libraries**: React, Angular, Flask, TensorFlow, LangChain, Lang Graph
+- **DevOps & Cloud**: AWS, Docker, Kubernetes, etc.
+- **Databases**: MySQL, MongoDB, Sybase, MS SQL Server
+- **Tools**: Git, VS Code, Intellij Idea, Jira, etc
 
 ## 🌱 I’m currently learning
-- [e.g., Advanced Machine Learning, Cloud Architecture, etc.]
-- [e.g., Blockchain Development, etc.]
+- Advanced Machine Learning, Cloud Architecture
+- Agentic AI, LangChain and LangGraph
 
 ## 🚀 My Projects
 Here are some of the projects I've worked on:
@@ -54,7 +54,7 @@ Here are some of the projects I've worked on:
 ## 📫 How to reach me
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Gagan Goswami](https://www.linkedin.com/in/gagangoswami/)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle) (if applicable)
+- **Twitter**: [@yourhandle](https://twitter.com/gagangoswami) (if applicable)
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com) (if applicable)
 
 ## 📊 GitHub Stats
