@@ -12,6 +12,7 @@ Pioneering the intersection of artificial intelligence and cloud computing with 
 - 🌱 **Current Impact:** Empowering organizations with AI-driven cloud solutions
 - 💡 **Expertise:** GitHub Copilot, Cloud Native Technologies, Enterprise Architecture
 - 🏆 **Recognition:** AWS Solution Architect, AWS Developer Associate, Git Hub CoPilot Certified, Github Foundations Certified, Azure Architect
+- 2025 - Agents, MCP, RAG, Pydantic, n8i
 
 
  ```text
