@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gagangoswami/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/gagangoswami)
+[![GitHub Actions Demo](https://github.com/GaganGoswami/GaganGoswami/actions/workflows/workflow-execution.yml/badge.svg)](https://github.com/GaganGoswami/GaganGoswami/actions/workflows/workflow-execution.yml)
 
 > 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Lead Software Engineer | 🏆 3x AWS Certified | 🏆 Github Foundation and Copilot Certified
 ## 🚀 About Me
