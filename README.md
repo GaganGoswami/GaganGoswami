@@ -57,7 +57,7 @@ Here are some of the projects I've worked on:
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Gagan Goswami](https://www.linkedin.com/in/gagangoswami/)
 - **Twitter**: [@gagangoswami](https://twitter.com/gagangoswami) 
-- **Portfolio**: [[[yourportfolio.com](https://www.gagangoswami.com/portfolio)] ](https://www.gagangoswami.com/portfolio)(if applicable)
+- **Portfolio**: [gagangoswami.com](https://www.gagangoswami.com/portfolio)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaganGoswami&show_icons=true&theme=radical)
