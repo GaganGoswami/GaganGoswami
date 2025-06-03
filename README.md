@@ -49,12 +49,9 @@ Infrastructure      ⭐⭐⭐⭐    Cloud-native & hybrid solutions
 
 ## 🚀 My Projects
 Here are some of the projects I've worked on:
-- **[Project 1](https://github.com/yourusername/project1)**: A brief description of the project.
-- **[Project 2](https://github.com/yourusername/project2)**: A brief description of the project.
-- **[Project 3](https://github.com/yourusername/project3)**: A brief description of the project.
+coming soon ...
 
 ## 📫 How to reach me
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Gagan Goswami](https://www.linkedin.com/in/gagangoswami/)
 - **Twitter**: [@gagangoswami](https://twitter.com/gagangoswami) 
 - **Portfolio**: [gagangoswami.com](https://www.gagangoswami.com/portfolio)
